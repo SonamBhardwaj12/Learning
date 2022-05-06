@@ -1,2 +1,1 @@
-# Learning
-Transfer Learning on images
+# Sonam_GANs
